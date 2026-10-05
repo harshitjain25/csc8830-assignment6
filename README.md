@@ -1,5 +1,7 @@
 # CSC 8830 Computer Vision — Assignment 6
 
+Final submission report: [Harshit Jain — Assignment 6](report_assets/Harshit_Jain_CSC8830_Assignment6_Final_Submission_Corrected.pdf).
+
 This assignment explores motion estimation using Python and OpenCV. Part 1 uses
 dense Farneback optical flow without machine learning or deep learning. Provide
 two videos, each containing at least 30 seconds of motion.
